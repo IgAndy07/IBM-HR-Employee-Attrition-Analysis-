@@ -14,8 +14,8 @@ This project applies machine learning models (Logistic Regression, Random Forest
 
 ## Results
 
-- Accuracy: ~XX%
-- ROC AUC: ~XX%
+- Accuracy: ~98%
+- ROC AUC: ~97.8%
 
 ## Requirements
 
