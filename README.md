@@ -59,10 +59,3 @@ This project explores employee attrition patterns using the **IBM HR Analytics E
 
 ---
 
-## 🚀 Getting Started
-
-1. Clone the repo:
-
-```bash
-git clone https://github.com/your-username/ibm-hr-attrition-analysis.git
-cd ibm-hr-attrition-analysis
